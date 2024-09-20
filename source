@@ -23,82 +23,82 @@ local RayfieldLibrary = {
 	Theme = {
 		Default = {
 			TextFont = "Default",
-			        TextColor = Color3.fromRGB(100, 0, 100), -- Set text color to a light shade
-			
-			        Background = Color3.fromRGB(100, 0, 100), -- Dark Purple
-			        Topbar = Color3.fromRGB(100, 0, 100), -- Medium Purple
-			        Shadow = Color3.fromRGB(30, 0, 30), -- Darker Purple
-			
-			        NotificationBackground = Color3.fromRGB(50, 0, 50), -- Dark Purple
-			        NotificationActionsBackground = Color3.fromRGB(80, 0, 80), -- Medium Dark Purple
-			
-			        TabBackground = Color3.fromRGB(120, 0, 120), -- Purple
-			        TabStroke = Color3.fromRGB(85, 0, 85), -- Dark Purple
-			        TabBackgroundSelected = Color3.fromRGB(160, 0, 160), -- Bright Purple
-			        TabTextColor = Color3.fromRGB(240, 240, 240), -- Light text color
-			        SelectedTabTextColor = Color3.fromRGB(191, 0, 191), -- Medium Light Purple
-			
-			        ElementBackground = Color3.fromRGB(80, 0, 80), -- Medium Dark Purple
-			        ElementBackgroundHover = Color3.fromRGB(90, 0, 90), -- Medium Purple
-			        SecondaryElementBackground = Color3.fromRGB(100, 0, 100), -- Dark Purple
-			        ElementStroke = Color3.fromRGB(50, 0, 50), -- Dark Purple
-			        SecondaryElementStroke = Color3.fromRGB(60, 0, 60), -- Darker Purple
-			
-			        SliderBackground = Color3.fromRGB(100, 0, 100), -- Dark Purple
-			        SliderProgress = Color3.fromRGB(120, 0, 120), -- Purple
-			        SliderStroke = Color3.fromRGB(130, 0, 130), -- Bright Purple
-			
-			        ToggleBackground = Color3.fromRGB(50, 0, 50), -- Dark Purple
-			        ToggleEnabled = Color3.fromRGB(80, 0, 80), -- Medium Purple
-			        ToggleDisabled = Color3.fromRGB(100, 0, 100), -- Dark Purple
-			        ToggleEnabledStroke = Color3.fromRGB(60, 0, 60), -- Darker Purple
-			        ToggleDisabledStroke = Color3.fromRGB(40, 0, 40), -- Darker Purple
-			        ToggleEnabledOuterStroke = Color3.fromRGB(30, 0, 30), -- Dark Purple
-			        ToggleDisabledOuterStroke = Color3.fromRGB(20, 0, 20), -- Darker Purple
-			
-			        InputBackground = Color3.fromRGB(70, 0, 70), -- Medium Dark Purple
-			        InputStroke = Color3.fromRGB(40, 0, 40), -- Dark Purple
-			        PlaceholderColor = Color3.fromRGB(178, 178, 178) -- Keep placeholder color as is
-			    },
-			    Light = {
-			        TextFont = "Gotham",
-			        TextColor = Color3.fromRGB(240, 240, 240), -- Light text color
-			
-			        Background = Color3.fromRGB(200, 100, 200), -- Light Purple
-			        Topbar = Color3.fromRGB(217, 150, 217), -- Light Medium Purple
-			        Shadow = Color3.fromRGB(223, 180, 223), -- Light Purple
-			
-			        NotificationBackground = Color3.fromRGB(50, 0, 50), -- Dark Purple
-			        NotificationActionsBackground = Color3.fromRGB(230, 200, 230), -- Light Purple
-			
-			        TabBackground = Color3.fromRGB(220, 100, 220), -- Light Purple
-			        TabStroke = Color3.fromRGB(112, 0, 112), -- Medium Dark Purple
-			        TabBackgroundSelected = Color3.fromRGB(0, 142, 208), -- You might want to change this too
-			        TabTextColor = Color3.fromRGB(240, 240, 240), -- Light text color
-			        SelectedTabTextColor = Color3.fromRGB(150, 0, 150), -- Medium Light Purple
-			
-			        ElementBackground = Color3.fromRGB(198, 100, 198), -- Light Purple
-			        ElementBackgroundHover = Color3.fromRGB(230, 150, 230), -- Lighter Purple
-			        SecondaryElementBackground = Color3.fromRGB(136, 0, 136), -- Medium Dark Purple
-			        ElementStroke = Color3.fromRGB(180, 150, 180), -- Light Purple
-			        SecondaryElementStroke = Color3.fromRGB(40, 0, 40), -- Dark Purple
-			
-			        SliderBackground = Color3.fromRGB(100, 0, 100), -- Dark Purple
-			        SliderProgress = Color3.fromRGB(100, 100, 200), -- Purple
-			        SliderStroke = Color3.fromRGB(120, 0, 120), -- Bright Purple
-			
-			        ToggleBackground = Color3.fromRGB(170, 100, 170), -- Light Purple
-			        ToggleEnabled = Color3.fromRGB(32, 214, 29), -- You might want to change this too
-			        ToggleDisabled = Color3.fromRGB(100, 22, 23), -- You might want to change this too
-			        ToggleEnabledStroke = Color3.fromRGB(100, 0, 100), -- Medium Purple
-			        ToggleDisabledStroke = Color3.fromRGB(65, 0, 65), -- Darker Purple
-			        ToggleEnabledOuterStroke = Color3.fromRGB(0, 0, 170), -- Medium Purple
-			        ToggleDisabledOuterStroke = Color3.fromRGB(170, 0, 170), -- Bright Purple
-			
-			        InputBackground = Color3.fromRGB(31, 159, 71), -- You might want to change this too
-			        InputStroke = Color3.fromRGB(19, 65, 31), -- You might want to change this too
-			        PlaceholderColor = Color3.fromRGB(178, 178, 178) -- Keep placeholder color as is
-			    }
+		        TextColor = Color3.fromRGB(240, 240, 240), -- Light text color
+		
+		        Background = Color3.fromRGB(128, 0, 128), -- Purple
+		        Topbar = Color3.fromRGB(128, 0, 128), -- Purple
+		        Shadow = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        NotificationBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        NotificationActionsBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        TabBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabBackgroundSelected = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabTextColor = Color3.fromRGB(240, 240, 240), -- Light text color
+		        SelectedTabTextColor = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        ElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        ElementBackgroundHover = Color3.fromRGB(128, 0, 128), -- Purple
+		        SecondaryElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        ElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        SecondaryElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        SliderBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        SliderProgress = Color3.fromRGB(128, 0, 128), -- Purple
+		        SliderStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        ToggleBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleEnabled = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleDisabled = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleEnabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleDisabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleEnabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleDisabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        InputBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        InputStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        PlaceholderColor = Color3.fromRGB(178, 178, 178) -- Keep placeholder color as is
+		    },
+		    Light = {
+		        TextFont = "Gotham",
+		        TextColor = Color3.fromRGB(240, 240, 240), -- Light text color
+		
+		        Background = Color3.fromRGB(128, 0, 128), -- Purple
+		        Topbar = Color3.fromRGB(128, 0, 128), -- Purple
+		        Shadow = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        NotificationBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        NotificationActionsBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        TabBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabBackgroundSelected = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabTextColor = Color3.fromRGB(240, 240, 240), -- Light text color
+		        SelectedTabTextColor = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        ElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        ElementBackgroundHover = Color3.fromRGB(128, 0, 128), -- Purple
+		        SecondaryElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        ElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        SecondaryElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        SliderBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        SliderProgress = Color3.fromRGB(128, 0, 128), -- Purple
+		        SliderStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        ToggleBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleEnabled = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleDisabled = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleEnabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleDisabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleEnabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleDisabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		
+		        InputBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        InputStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        PlaceholderColor = Color3.fromRGB(178, 178, 178) -- Keep placeholder color as is
+		    }
 	}
 }
 
