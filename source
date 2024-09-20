@@ -23,7 +23,7 @@ local RayfieldLibrary = {
 	Theme = {
 		Default = {
 			TextFont = "Default",
-			        TextColor = Color3.fromRGB(240, 240, 240), -- Set text color to a light shade
+			        TextColor = Color3.fromRGB(100, 0, 100), -- Set text color to a light shade
 			
 			        Background = Color3.fromRGB(100, 0, 100), -- Dark Purple
 			        Topbar = Color3.fromRGB(100, 0, 100), -- Medium Purple
