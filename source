@@ -26,7 +26,7 @@ local RayfieldLibrary = {
 			        TextColor = Color3.fromRGB(240, 240, 240), -- Set text color to a light shade
 			
 			        Background = Color3.fromRGB(100, 0, 100), -- Dark Purple
-			        Topbar = Color3.fromRGB(150, 0, 150), -- Medium Purple
+			        Topbar = Color3.fromRGB(100, 0, 100), -- Medium Purple
 			        Shadow = Color3.fromRGB(30, 0, 30), -- Darker Purple
 			
 			        NotificationBackground = Color3.fromRGB(50, 0, 50), -- Dark Purple
