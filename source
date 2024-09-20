@@ -25,78 +25,78 @@ local RayfieldLibrary = {
 			TextFont = "Default",
 		        TextColor = Color3.fromRGB(240, 240, 240), -- Light text color
 		
-		        Background = Color3.fromRGB(128, 0, 128), -- Purple
-		        Topbar = Color3.fromRGB(128, 0, 128), -- Purple
-		        Shadow = Color3.fromRGB(128, 0, 128), -- Purple
+		        Background = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        Topbar = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        Shadow = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        NotificationBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        NotificationActionsBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        NotificationBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        NotificationActionsBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        TabBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        TabStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        TabBackgroundSelected = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        TabStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        TabBackgroundSelected = Color3.fromRGB(200, 162, 200), -- Light Purple
 		        TabTextColor = Color3.fromRGB(240, 240, 240), -- Light text color
-		        SelectedTabTextColor = Color3.fromRGB(128, 0, 128), -- Purple
+		        SelectedTabTextColor = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        ElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        ElementBackgroundHover = Color3.fromRGB(128, 0, 128), -- Purple
-		        SecondaryElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        ElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        SecondaryElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ElementBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ElementBackgroundHover = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SecondaryElementBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ElementStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SecondaryElementStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        SliderBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        SliderProgress = Color3.fromRGB(128, 0, 128), -- Purple
-		        SliderStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        SliderBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SliderProgress = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SliderStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        ToggleBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleEnabled = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleDisabled = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleEnabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleDisabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleEnabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleDisabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleEnabled = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleDisabled = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleEnabledStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleDisabledStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleEnabledOuterStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleDisabledOuterStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        InputBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        InputStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        InputBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        InputStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		        PlaceholderColor = Color3.fromRGB(178, 178, 178) -- Keep placeholder color as is
 		    },
 		    Light = {
 		        TextFont = "Gotham",
 		        TextColor = Color3.fromRGB(240, 240, 240), -- Light text color
 		
-		        Background = Color3.fromRGB(128, 0, 128), -- Purple
-		        Topbar = Color3.fromRGB(128, 0, 128), -- Purple
-		        Shadow = Color3.fromRGB(128, 0, 128), -- Purple
+		        Background = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        Topbar = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        Shadow = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        NotificationBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        NotificationActionsBackground = Color3.fromRGB(128, 0, 128), -- Purple
+		        NotificationBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        NotificationActionsBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        TabBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        TabStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        TabBackgroundSelected = Color3.fromRGB(128, 0, 128), -- Purple
+		        TabBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        TabStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        TabBackgroundSelected = Color3.fromRGB(200, 162, 200), -- Light Purple
 		        TabTextColor = Color3.fromRGB(240, 240, 240), -- Light text color
-		        SelectedTabTextColor = Color3.fromRGB(128, 0, 128), -- Purple
+		        SelectedTabTextColor = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        ElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        ElementBackgroundHover = Color3.fromRGB(128, 0, 128), -- Purple
-		        SecondaryElementBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        ElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        SecondaryElementStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ElementBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ElementBackgroundHover = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SecondaryElementBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ElementStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SecondaryElementStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        SliderBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        SliderProgress = Color3.fromRGB(128, 0, 128), -- Purple
-		        SliderStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        SliderBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SliderProgress = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        SliderStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        ToggleBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleEnabled = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleDisabled = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleEnabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleDisabledStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleEnabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
-		        ToggleDisabledOuterStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        ToggleBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleEnabled = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleDisabled = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleEnabledStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleDisabledStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleEnabledOuterStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        ToggleDisabledOuterStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		
-		        InputBackground = Color3.fromRGB(128, 0, 128), -- Purple
-		        InputStroke = Color3.fromRGB(128, 0, 128), -- Purple
+		        InputBackground = Color3.fromRGB(200, 162, 200), -- Light Purple
+		        InputStroke = Color3.fromRGB(200, 162, 200), -- Light Purple
 		        PlaceholderColor = Color3.fromRGB(178, 178, 178) -- Keep placeholder color as is
 		    }
 	}
