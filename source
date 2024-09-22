@@ -23,7 +23,7 @@ local RayfieldLibrary = {
 	Theme = {
 		Default = {
 			TextFont = "Default",
-			    TextColor = Color3.fromRGB(255, 255, 255), -- White text color
+			TextColor = Color3.fromRGB(255, 255, 255), -- White text color
 			
 			    Background = Color3.fromRGB(0, 0, 0), -- Black background
 			    Topbar = Color3.fromRGB(0, 0, 0), -- Black
@@ -100,8 +100,7 @@ local RayfieldLibrary = {
 			    PlaceholderColor = Color3.fromRGB(178, 178, 178) -- Keep placeholder color as is
 			}
 	}
-
-
+}
 
 -- Services
 
